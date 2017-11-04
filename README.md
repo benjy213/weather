@@ -14,5 +14,5 @@ La page Home permet de connaitre la météo du moment de 3 grandes villes ainsi 
 api natif utilisé : @ionic-native/geolocation
 api fireBase utilisé : angularfire2/auth
 api pour récupérer les info de la météo: https://www.wunderground.com/
-Login test : test@ttest@test.cil
+Login test: test@test.com
 Mdp test : azerty
