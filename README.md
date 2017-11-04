@@ -1,4 +1,5 @@
 # weather
+benjamin.carles@epitech.eu
 Projet Ionic 3 cordova with firebase
 Projet réalisé seul.
 Je n'ai pas assisté au cours
@@ -7,5 +8,3 @@ Je n'ai pas assisté au cours
 
 Une page d'authentification qui donne accès soit à une page pour s'enregistrer soit, si connecté, à la page Home.
 La page Home permet de connaitre la météo du moment de 3 grandes villes ainsi que de connaitre la météo de votre position grace a la géolocalisation du téléphone.
-
-La page
